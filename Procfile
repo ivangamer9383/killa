@@ -1,0 +1,1 @@
+web: node kahoot-killer.js
